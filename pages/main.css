@@ -34,7 +34,7 @@ body {
 
 .header {
   overflow: hidden;
-  background-color: #202020;
+  background-color: #741a74;
   padding: 0px 0px;
   position: sticky;
 }
@@ -63,7 +63,7 @@ body {
 }
 
 .header a:hover {
-  background-color: rgb(0, 0, 0);
+  background-color: rgb(138, 36, 107);
   color: rgb(255, 255, 255);
 }
 
@@ -160,7 +160,7 @@ body {
 	}
 
 	body {
-		background: #42424f;
+		background: #dd56bb;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -298,7 +298,7 @@ body {
 	}
 
 	blockquote {
-		border-left: solid 4px rgba(144, 144, 144, 0.25);
+		border-left: solid 4px rgb(104, 22, 107);
 		font-style: italic;
 		margin: 0 0 2em 0;
 		padding: 0.5em 0 0.5em 2em;
@@ -805,7 +805,7 @@ body {
 					}
 
 					ul.icons li a:hover {
-						background-color: #42424f;
+						background-color: #ff0000;
 						color: #FFF;
 					}
 
@@ -1449,7 +1449,7 @@ body {
 
 	#footer {
 		padding: 4em 0 2em 0;
-		background-color: #1b1b1f;
+		background-color: #83388a;
 		text-align: center;
 	}
 
